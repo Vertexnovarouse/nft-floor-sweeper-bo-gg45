@@ -1,4 +1,4 @@
-# 
+# automatic nft floor sweeper bot | trailing-stop + trait-analysis is the best nft floor sweeper bot, featuring trailing-stop and trait-analysis. Fast, smart, and optimized for NFT
 
 
 
